@@ -8,4 +8,3 @@ kv_namespaces = [
 ]
 [triggers]
 crons = [ ]
-account_id = "6bf4fd3bd2cc9a0e0a25d63b79cb270f"
