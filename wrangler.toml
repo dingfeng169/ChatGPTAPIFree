@@ -6,6 +6,5 @@ env = { }
 kv_namespaces = [
   { binding = "kv", id = "d439927da7334d23a8b6320b1bc693b7" }
 ]
-account_id = "kattumi@gmail.com"
 [triggers]
 crons = [ ]
